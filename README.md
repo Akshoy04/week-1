@@ -1,4 +1,4 @@
-# array
+1) array
 
 #include <stdio.h>
 
@@ -25,7 +25,7 @@ int main() {
 }
 
 
-#count the numbers of positive and negative
+2) count the numbers of positive and negative
 
 #include <stdio.h>
 
@@ -50,7 +50,7 @@ int main() {
 }
 
 
-#convert decimal to binary
+3) convert decimal to binary
 
 #include <stdio.h>
 
@@ -80,7 +80,7 @@ int main() {
 }
 
 
-#generate n number of terms in FIBONACCI METHOD
+4) generate n number of terms in FIBONACCI METHOD
 
 #include <stdio.h>
 
