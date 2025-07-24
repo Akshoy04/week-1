@@ -1,4 +1,5 @@
-1) array
+1) Program to input elements of array and print all the elements
+
 
 #include <stdio.h>
 
