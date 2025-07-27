@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 int main() {
+
     int n;
     printf("Enter the number of elements in the array: ");
     scanf("%d", &n);
@@ -26,6 +27,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
+
     int n, i, num, positive = 0, negative = 0;
     printf("Enter the number of elements: ");
     scanf("%d", &n);
@@ -48,6 +50,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
+
     int num, binary[32], i = 0;
     printf("Enter a decimal number: ");
     scanf("%d", &num);
@@ -73,6 +76,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
+
     int n, first = 0, second = 1, next, i;
     printf("Enter the number of terms: ");
     scanf("%d", &n);
