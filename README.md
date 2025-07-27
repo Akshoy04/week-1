@@ -2,6 +2,7 @@
 
 
 #include <stdio.h>
+
 int main() {
     int n;
     printf("Enter the number of elements in the array: ");
@@ -23,6 +24,7 @@ int main() {
 2) count the numbers of positive and negative
 
 #include <stdio.h>
+
 int main() {
     int n, i, num, positive = 0, negative = 0;
     printf("Enter the number of elements: ");
@@ -44,6 +46,7 @@ int main() {
 3) convert decimal to binary
 
 #include <stdio.h>
+
 int main() {
     int num, binary[32], i = 0;
     printf("Enter a decimal number: ");
@@ -68,6 +71,7 @@ int main() {
 4) generate n number of terms in FIBONACCI METHOD
 
 #include <stdio.h>
+
 int main() {
     int n, first = 0, second = 1, next, i;
     printf("Enter the number of terms: ");
